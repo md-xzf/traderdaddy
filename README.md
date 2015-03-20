@@ -9,6 +9,7 @@ Bugfixes:
 - Improved order spacing
 - Improved trading logic
 - Improved handling of low satoshi markets
+- Don't sell RBY if it would put balance below 25,000
 
 Features:
 - Order adjustment timing based on risk tolerance
