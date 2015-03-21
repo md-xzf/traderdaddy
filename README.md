@@ -1,6 +1,14 @@
 # TraderDaddy
 Automatically trade Bitcoin and other cryptocurrency for profit.
 
+
+## v0.0.6 (2015-03-21)
+
+Bugfixes:
+
+- Fixed a bug that was causing buy and sell orders to not properly adjust
+
+
 ## v0.0.5 (2015-03-20)
 
 Bugfixes:
