@@ -1,6 +1,16 @@
 # TraderDaddy
 Automatically trade Bitcoin and other cryptocurrency for profit.
 
+## v0.0.5 (2015-03-20)
+
+Bugfixes:
+
+- Fixed order adjustment
+- Fixed start up lag
+- Fixed navigation lag
+- Changed precision to 8 decimal places
+ 
+
 ## v0.0.4 (2015-03-20)
 
 Bugfixes:
