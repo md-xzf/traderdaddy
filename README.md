@@ -2,6 +2,24 @@
 Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
+## v0.0.7 (2015-03-29)
+
+Bugfixes:
+
+- Whitespace trimmed from API Key and API Secret
+- Prevent budgets greater than available BTC
+- Improved order placement
+- Improved trading logic
+
+Features:
+
+- Markets sortable by volume / creation date
+- Set risk tolerance for each market
+- Set trading mode for each market
+- Search market selection
+- Filter markets by age
+
+
 ## v0.0.6 (2015-03-21)
 
 Bugfixes:
