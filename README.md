@@ -20,11 +20,13 @@ Features:
 - Filter markets by age
 
 
+
 ## v0.0.6 (2015-03-21)
 
 Bugfixes:
 
 - Fixed a bug that was causing buy and sell orders to not properly adjust
+
 
 
 ## v0.0.5 (2015-03-20)
@@ -36,6 +38,7 @@ Bugfixes:
 - Fixed navigation lag
 - Changed precision to 8 decimal places
  
+
 
 ## v0.0.4 (2015-03-20)
 
