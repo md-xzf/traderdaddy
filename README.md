@@ -2,6 +2,26 @@
 Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
+## v0.1.0 (2015-04-28)
+
+Bugfixes:
+- Hide risk tolerance in Thor when Juggernaut is enabled
+- Properly handle Bittrex API throttling
+- Show markets under 30 days old
+- Show markets with zero volume
+- Copy/paste working on OSX
+- Improved order placement
+- Improved trading logic
+
+Features:
+- Show spread in market selection
+- Show 24h change in market selection
+- Dashboard updates every minute
+- Budget is now per exchange
+- Poloniex integration
+
+
+
 ## v0.0.7 (2015-03-29)
 
 Bugfixes:
