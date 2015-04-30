@@ -2,6 +2,15 @@
 Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
+## v0.1.1 (2015-04-30)
+
+Bugfixes:
+- Check Rubycoin on Poloniex when enabling Juggernaut
+- Reset risk/mode when Juggernaut is disabled
+- Fixed Poloniex buy/sell cycling
+
+
+
 ## v0.1.0 (2015-04-28)
 
 Bugfixes:
