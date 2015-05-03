@@ -2,6 +2,13 @@
 Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
+## v0.1.2 (2015-05-02)
+
+Bugfixes:
+- Fixed turn-off problems caused by Bittrex API throttling
+
+
+
 ## v0.1.1 (2015-04-30)
 
 Bugfixes:
