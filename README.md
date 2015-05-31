@@ -2,6 +2,17 @@
 Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
+## v0.1.4 (2015-05-31)
+
+Features:
+- Market ladders
+- New layout / design
+- Improved trading logic
+- Separate budget for each exchange
+- Separate risk tolerance for each exchange
+
+
+
 ## v0.1.3 (2015-05-03)
 
 Bugfixes:
@@ -49,14 +60,12 @@ Features:
 ## v0.0.7 (2015-03-29)
 
 Bugfixes:
-
 - Whitespace trimmed from API Key and API Secret
 - Prevent budgets greater than available BTC
 - Improved order placement
 - Improved trading logic
 
 Features:
-
 - Markets sortable by volume / creation date
 - Set risk tolerance for each market
 - Set trading mode for each market
@@ -68,7 +77,6 @@ Features:
 ## v0.0.6 (2015-03-21)
 
 Bugfixes:
-
 - Fixed a bug that was causing buy and sell orders to not properly adjust
 
 
@@ -76,7 +84,6 @@ Bugfixes:
 ## v0.0.5 (2015-03-20)
 
 Bugfixes:
-
 - Fixed order adjustment
 - Fixed start up lag
 - Fixed navigation lag
@@ -87,7 +94,6 @@ Bugfixes:
 ## v0.0.4 (2015-03-20)
 
 Bugfixes:
-
 - Fixed order adjustment
 - Improved order spacing
 - Improved trading logic
