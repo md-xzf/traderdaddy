@@ -2,6 +2,15 @@
 Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
+
+## v0.1.5 (2015-06-03)
+
+Bugfixes:
+- Missing dashboard on/off switch in some situations
+- Stability improvements
+
+
+
 ## v0.1.4 (2015-05-31)
 
 Features:
