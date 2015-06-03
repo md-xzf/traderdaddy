@@ -7,7 +7,9 @@ Automatically trade Bitcoin and other cryptocurrency for profit.
 
 Bugfixes:
 - Missing dashboard on/off switch in some situations
+- Poloniex risk tolerance
 - Stability improvements
+- Changing budget
 
 
 
