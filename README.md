@@ -3,6 +3,13 @@ Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
 
+## v0.1.6 (2015-06-05)
+
+Features:
+- Recent order history is analyzed when placing sell orders, resulting in greatly improved trading logic.
+
+
+
 ## v0.1.5 (2015-06-03)
 
 Bugfixes:
