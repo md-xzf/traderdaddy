@@ -7,7 +7,7 @@ Automatically trade Bitcoin and other cryptocurrency for profit.
 
 Features:
 - New trading style, sell orders always target a profitable price point
-- Sells with a corresponding buy are never removed unless done manually
+- Sells with a corresponding buy are never removed unless cancelled manually
 - Reduced rate of accumulation
 - Improved performance
 
