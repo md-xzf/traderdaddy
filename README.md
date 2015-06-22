@@ -3,6 +3,12 @@ Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
 
+## v0.2.1 (2015-06-22)
+Bugfixes:
+- Fixed issue that caused TraderDaddy to turn off for users with less than 50,000 RBY
+
+
+
 ## v0.2.0 (2015-06-22)
 
 Features:
