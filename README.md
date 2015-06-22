@@ -3,6 +3,16 @@ Automatically trade Bitcoin and other cryptocurrency for profit.
 
 
 
+## v0.2.0 (2015-06-22)
+
+Features:
+- New trading style, sell orders always target a profitable price point
+- Sells with a corresponding buy are never removed unless done manually
+- Reduced rate of accumulation
+- Improved performance
+
+
+
 ## v0.1.6 (2015-06-05)
 
 Features:
